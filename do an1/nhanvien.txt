@@ -1,0 +1,7 @@
+nv01#Đặng tuấn#Anh#nam#08/12/2000#hải phòng#bếp trưởng#bếp#nhân viên#0878090187#01/01/2021
+tv01#Hoàng Đức#Anh#nam#26/01/2001#Hà Nội#phụ bếp#bếp#nhân viên tg#0878060092#01/01/2021
+nv02#Lưu Trang#Anh#nu#16/05/1996#Hà Nội#nhân viên#tiền sảnh#nhân viên#0878012627#01/01/2021
+tv02#Tăng phương#Chi#nu#14/04/2001#Hưng yên#phụ bếp#bếp#nhân viên tg#0878050167#01/01/2021
+nv03#Trần An#Dương#nam#18/11/2000#Hưng Yên#thu ngân#quầy thu ngân#nhân viên#0878060862#01/01/2021
+tv03#Phạm tiến#Dũng#nam#10/07/1999#Hà Nội#phụ bếp#bếp#nhân viên tg#0878051881#01/01/2021
+Ql00#Đỗ Quang#Hào#nam#18/08/2001#Hưng Yên#quản lý#tiền sảnh#nhân viên#0964396091#12/12/2020

@@ -1,0 +1,4 @@
+nv01#Đặng tuấn#Anh#bếp trưởng#bếp#26#0#0#0#7800000#10/01/2021
+nv02#Lưu Trang#Anh#nhân viên#tiền sảnh#26#0#0#0#6800000#10/01/2021
+nv03#Trần An#Dương#thu ngân#quầy thu ngân#26#0#0#0#7200000#10/01/2021
+Ql00#Đỗ Quang#Hào#quảng lý#tiền sảnh#26#0#0#0#7800000#10/01/2021
